@@ -1,0 +1,20 @@
+# Linux commands that I have learnt . . . 
+- `ls` : list all the directories in the working directory
+- `ctrl + c`: to forcefully exit a program in the terminal .
+- `pwd` : print the current working directory
+- `whoami` : check currently logged in user
+- `cp` **`{file/directorytobecopied}`** **`{file/directorytowherecopyingisdone}`** : copies first file to 2nd file
+- `mkdir` **`{directoryname}`** : makes a directory with name **`{directoryname}`**
+- `rmdir` **`{directoryname}`** : removes a directory with name **`{directoryname}`**
+- `rm` **`{filename}`** : removes a file with the given filename.
+- `rm -r` **`{directoryname}`** : removes a directory with the given directory name .
+- `cd` **`{/Path}`** : goes to the directory with the given path or changes the current working directory with the given directory inside the current.
+- `cd / ` : goes to to the root directory . `/` is the path of the root directory.
+- `cd ..`: to get back to the previous directory;
+- `tab` : autocomplete without typing the full name .
+- `mv` **`{file/directorytobecopied}`** **`{directoryname}/{file/directorytobecopied}`** : moves a given file to a given directory.
+- `touch` **`{filename}`** : creates a file with given name and extension.
+- `cat` **`{filename}`** : concatenate and display the file with the given filename.
+- `man` **`{commandname}`** : shows the manual page of the given command.
+- `htop` : interactive process viewer (if htop is installed).
+- `chmod` `code` **`{file/directoryname}`** : change permissions of a file or directory (for owner , group and public).
