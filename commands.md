@@ -18,3 +18,15 @@
 - `man` **`{commandname}`** : shows the manual page of the given command.
 - `htop` : interactive process viewer (if htop is installed).
 - `chmod` `code` **`{file/directoryname}`** : change permissions of a file or directory (for owner , group and public).
+- `tar cf ` **`{compressedfilename}`** **`{file1}`** **`{file2}`** ... : create compressed files
+- `tar xf` **`{compressedfilename}`** : extract compressed files
+- `gzip` **`{filename}`** : compress files into .gz compresion
+- `gunzip` **`{filename}`** : decompress a .gz compressed file
+- `ps` : list ongoing processes 
+- `kill` **`{PID}`** : terminate an ongoing process with the given pid 
+- `ifconfig` : list and manage network interfaces
+- `useradd ` **`{username}`**: add a new user to the system
+- `passwd` **`{username}`**: change password for a user
+- `userdel ` **`{username}`** : deltes a user with the given username;
+- `su` **`{username}`** : login as another user.
+- `df` : show used diska spaces
